@@ -1,0 +1,28 @@
+{
+  "name": "mongoose_cheerio",
+  "version": "1.0.0",
+  "description": "# Week 18 Homework Assignment - All the News That's Fit to Scrape",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NBDelpino1/Mongoose-Cheerio.git"
+  },
+  "author": "Nicholas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NBDelpino1/Mongoose-Cheerio/issues"
+  },
+  "homepage": "https://github.com/NBDelpino1/Mongoose-Cheerio#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "body-parser": "^1.15.0",
+    "mongoose": "^4.4.6",
+    "morgan": "^1.7.0",
+    "request": "^2.69.0",
+    "cheerio": "^0.20.0"
+  }
+}

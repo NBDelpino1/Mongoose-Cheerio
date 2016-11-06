@@ -1,0 +1,106 @@
+body {
+    background-color: white;
+    font-family: 'Titillium Web', sans-serif;
+    margin:0px;
+}
+
+.head, h5 {
+    font-family: 'Russo One', sans-serif;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color:red;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-shadow: rgba(255,255,255,0.5) 0px 3px 3px;
+}
+
+.panel-default>.panel-heading {
+    border-color: transparent;
+    font-family: 'Russo One', sans-serif;
+    background-color:#394baf;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-shadow: rgba(255,255,255,0.5) 0px 3px 3px;
+}
+
+.panel-default, #titleinput, #bodyinput, #savenote {
+    border-color: #394baf;
+}
+
+
+
+#savenote {
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+    background-color:#394baf;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-shadow: rgba(255,255,255,0.5) 0px 3px 3px;
+    border-color: transparent;
+}
+#savenote:hover {
+    color: red;
+}
+
+#articles {
+    max-height: 350px;
+    overflow-y: scroll;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*<!--<style>-->*/
+/*<!--body{-->*/
+/*<!--!*background-color: #DECADE*!-->*/
+/*<!--background-color: white;-->*/
+/*<!--}-->*/
+/*<!--#wrapper{-->*/
+/*<!--width:960px;-->*/
+/*<!--margin: 0 auto;-->*/
+/*<!--padding-top: 5%;-->*/
+/*<!--}-->*/
+/*<!--#articles{-->*/
+/*<!--width:60%;-->*/
+/*<!--height:700px;-->*/
+/*<!--display:inline-block;-->*/
+/*<!--overflow: auto;-->*/
+/*<!--}-->*/
+/*<!--#notes{-->*/
+/*<!--width:30%;-->*/
+/*<!--float:right;-->*/
+/*<!--}-->*/
+/*<!--textarea, input{-->*/
+/*<!--display:block;-->*/
+/*<!--width:100%;-->*/
+/*<!--background-color: #FCF5C7;-->*/
+/*<!--}-->*/
+/*<!--input{-->*/
+/*<!--height:36px;-->*/
+/*<!--font-size: 24px;-->*/
+/*<!--}-->*/
+/*<!--textarea{-->*/
+/*<!--height:200px;-->*/
+/*<!--font-size: 18px;-->*/
+/*<!--}-->*/
+/*<!--</style>-->*/
