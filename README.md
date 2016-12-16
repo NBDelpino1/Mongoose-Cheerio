@@ -1,7 +1,3 @@
-# Mongoose-Cheerio
-
-# Week 18 Homework Assignment - All the News That's Fit to Scrape
-
 ### Overview
 
 In this assignment, you'll create a web app that lets users leave comments on the latest news. But you're not going to actually write any articles; instead, you'll flex your Mongoose and Cheerio muscles to scrape news from another site.
@@ -54,17 +50,4 @@ In this assignment, you'll create a web app that lets users leave comments on th
 * Don't just clear out your database and populate it with scraped articles whenever a user accesses your site. 
   * If your app deletes stories every time someone visits, your users won't be able to see any comments except the ones that they post.
 
-### Helpful Links
-* [MongoDB Documentation](https://docs.mongodb.com/manual/)
-* [Mongoose Documentation](http://mongoosejs.com/docs/api.html)
-* [Cheerio Documentation](https://github.com/cheeriojs/cheerio)
 
--------
-
-### One Last Thing
-Like always, contact either the instructor or one of your TAs for support if you find yourself stuck while working on this assignment. That goes threefold for this week: MongoDB and Mongoose compose a challenging data management system. If there's anything you find confusing about these technologies, don't hesitate to speak with someone from the Bootcamp team.
-
-**Good Luck!**
-
-## Copyright
-Coding Boot Camp (C) 2016. All Rights Reserved.
